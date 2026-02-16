@@ -1,0 +1,62 @@
+/* --- 1. HEADER HIERARCHY & VIBRANT COLORS --- */
+/* Clean headers without bottom borders */
+.cm-header-1, .markdown-rendered h1 { 
+    color: #e0ccca; /* Dark slate / charcoal */
+    font-weight: 800; 
+    padding-bottom: 5px;
+} 
+.cm-header-2, .markdown-rendered h2 { 
+    color: #00D9FF !important; /* Cyan */
+    font-weight: 700;
+} 
+.cm-header-3, .markdown-rendered h3 { 
+    color: #FFD93D !important; /* Golden yellow */
+    font-weight: 600;
+    padding-bottom: 3px;
+} 
+.cm-header-4, .markdown-rendered h4 {
+    color: #A78BFA !important; /* Soft purple */
+    font-weight: 600;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.0em !important;
+}
+.cm-header-5, .markdown-rendered h5 { 
+    color: #FB923C !important; /* Warm orange */
+    font-style: italic; 
+}
+
+/* --- 2. INTERACTIVE LINKS --- */
+/* Added a hover effect so links feel "clickable" */
+.cm-link, .markdown-rendered a { 
+    color: #34D399 !important; /* Emerald green */
+    text-decoration: none; 
+    transition: all 0.2s ease;
+}
+.markdown-rendered a:hover { 
+    color: #6EE7B7 !important;
+    text-decoration: underline;
+    background-color: rgba(52, 211, 153, 0.1);
+}
+
+/* --- 3. TYPOGRAPHY ENHANCEMENTS --- */
+strong { color: #FBBF24 !important; font-weight: 700; } /* Bold is Amber */
+em { color: #F472B6 !important; } /* Italics are Pink */
+
+/* --- 4. CODE BLOCK POLISHING (Essential for 1337) --- */
+/* This makes your C/Python code blocks look like a real IDE */
+.markdown-rendered pre {
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 8px !important;
+    background-color: #1E293B !important; /* Slate background */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+code {
+    color: #22D3EE !important; /* Inline code is Bright cyan */
+    background-color: rgba(34, 211, 238, 0.1) !important;
+    padding: 2px 5px !important;
+    border-radius: 4px;
+}
+
+/* --- 5. EDITOR ACTIVE LINE --- */
+/* Helps you keep track of where your cursor is */
+.cm-activeLine { background-color: rgba(255, 255, 255, 0.05) !important; }

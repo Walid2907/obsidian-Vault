@@ -8,72 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "011cfface5dc3c6e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "9c87d1132cd43d79",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "starting-Point/Networking/OpenVPN.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OpenVPN"
             }
           },
           {
-            "id": "90ae225ccf4f3472",
+            "id": "4db286b6cb1e28a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fractol/Fractol.md",
+                "file": "starting-Point/Networking/OpenVPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fractol"
+              "title": "OpenVPN"
             }
           },
           {
-            "id": "5992389a1080794c",
+            "id": "638f35c4495103b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitwize.md",
+                "file": "starting-Point/Networking/ICMP & Ping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bitwize"
+              "title": "ICMP & Ping"
             }
           },
           {
-            "id": "030c9440f3674d2c",
+            "id": "fc7cb645057e080c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fractol/Fractol.md",
+                "file": "starting-Point/Networking/OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fractol"
+              "title": "OSI Model"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,11 +99,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -244,8 +237,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -270,11 +263,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "011cfface5dc3c6e",
+  "active": "fc7cb645057e080c",
   "lastOpenFiles": [
-    "test",
-    "Bitwize.md",
+    "starting-Point/Networking/Telnet.md",
+    "starting-Point/Networking/OSI Model.md",
+    "starting-Point/Networking/OpenVPN.md",
+    "starting-Point/Networking/NMAP.md",
+    "starting-Point/Networking/ICMP & Ping.md",
+    "Networking Basics.md",
+    "ICMP & Ping.md",
+    "OpenVPN-protocol.jpg",
+    "Untitled",
+    "starting-Point/Networking/Computer-Networks-Course-Overview.pdf",
+    "starting-Point/Networking/CN.pdf",
+    "starting-Point/Networking",
     "Fractol/Fractol.md",
+    "Bitwize.md",
+    "starting-Point",
+    "test",
     "Fractol/Minilibix.md",
     "Doker.md",
     "Fractol",
@@ -293,12 +299,6 @@
     "Technical/Technical/API Authentications.md",
     "Blue/Snippets/SQL Script Disposable Income.md",
     "Journal/Blue/Journal/2024-06-14.md",
-    "Technical/Technical/Idempotency in rest api.md",
-    "publish the Obsidian Vid.md",
-    "Business/Journal/2025-02-15 - todays.md",
-    "Business/Journal/2025-02-14.md",
-    "Blue/Common Issues/Everymessage, check documents being generated or not, Unproduced Welcome Letters.md",
-    "code snippets.md",
     "Blog",
     "Vlog",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
@@ -310,14 +310,7 @@
     "Business/Journal/Technical/Migrated/assets/image2.png",
     "Business/Journal/Technical/Migrated/assets/image1.png",
     "Business/Journal/Technical/Migrated/assets/image.jpeg",
-    "Business/Journal/Technical/Migrated/assets/image 2.png",
     "Business/Journal/Technical/Migrated/assets/Brand.psd",
-    "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
-    "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
-    "Business/Journal/Technical/Migrated/assets/Audio 1.mp4",
-    "Business/Journal/Technical/Technical/Self-Improvement",
-    "Business/Journal/Technical/Snippet/Contents",
-    "Business/Journal/Technical/Plans/Journal",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
